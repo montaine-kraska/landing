@@ -1,0 +1,52 @@
+/* Write some CSS below */
+body{
+	text-align: center
+}
+.banner { 
+	background-color: steelblue;
+	font-size:20px;
+ }
+
+#bureau-des-arts{ 
+	color:darkblue;
+}
+
+#our-mission{
+	color:darkblue;
+}
+
+.btn-blue{
+	color: white;
+	font-size:25px;
+	padding: 6px 20px;
+  border-radius: 4px;
+  display: inline-block;
+  background-color: steelblue;
+  text-decoration: none;
+}
+
+.cards{
+	background-color: rgb(204, 229, 255, 1.0);
+	display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 16px;
+  justify-content: center;
+}
+
+.footer{
+	font-size: 20px;
+	background-color: steelblue;
+}
+
+h1 {
+  font-family: 'Playfair Display', serif;
+}
+
+h2, h3 {
+	font-family: 'Lora', serif;
+}
+
+
+.komu-logo:hover{
+	box-shadow:30px 20px 20px black;
+}
